@@ -1,5 +1,5 @@
 {
-  "name": "@zr/za-data",
+  "name": "@zasset/za-data",
   "version": "0.1.0",
   "description": "Z Research data stage — data discovery and quality assessment for asset pricing + ML/DL research. Ships one skill.",
   "type": "module",
